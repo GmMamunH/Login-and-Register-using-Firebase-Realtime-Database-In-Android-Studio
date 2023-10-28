@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "421893431388",
+    "project_id": "user-name-email-login",
+    "storage_bucket": "user-name-email-login.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:421893431388:android:6919844713f6fae2610699",
+        "android_client_info": {
+          "package_name": "com.pta.phonenumberlogin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAoccQCLExNvs6ILP-OocHCj07G1NMBG4A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
